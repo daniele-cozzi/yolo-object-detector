@@ -39,7 +39,7 @@ Run the script and choose between real-time detection or image processing:
 python object_detector.py
 ```
 
-## **Customization**
+## **Configuration**
 
 - Change `MODEL_PATH` to use a different YOLO model.
 - Modify `INPUT_FOLDER` and `OUTPUT_FOLDER` for custom image paths.
