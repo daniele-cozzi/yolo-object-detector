@@ -19,7 +19,7 @@ This Python project is a **case study** developed and presented during a **lesso
 
 ## **Requirements**
 
-- Python 3.x
+- Python 3.10
 - OpenCV (`cv2`)
 - Ultralytics YOLO (`ultralytics`)
 - A YOLO model file (`yolo11n.pt`)
